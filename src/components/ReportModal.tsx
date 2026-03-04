@@ -34,7 +34,7 @@ export function ReportModal({ report, onClose }: ReportModalProps) {
                         alt={report.title}
                         className="w-full h-full object-cover min-h-[300px]"
                         onError={(e) => {
-                            e.currentTarget.src = "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC+Report";
+                            e.currentTarget.src = `https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC+${report.version}`;
                         }}
                     />
                 </div>

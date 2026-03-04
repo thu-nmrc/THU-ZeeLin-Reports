@@ -25,7 +25,7 @@ export function ReportCard({ report, onClick }: ReportCardProps) {
                     alt={report.title}
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                     onError={(e) => {
-                        e.currentTarget.src = "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC+Report";
+                        e.currentTarget.src = `https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC+${report.version}`;
                     }}
                 />
                 <div className="absolute top-4 left-4 bg-tsinghua/90 backdrop-blur-sm text-white text-xs font-semibold px-3 py-1 rounded-full shadow-sm">
