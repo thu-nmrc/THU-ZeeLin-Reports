@@ -1,0 +1,20 @@
+[
+    {
+        "id": "v3",
+        "title": "AIGC发展研究3.0发布版",
+        "version": "3.0",
+        "date": "2024",
+        "abstract": "本报告由清华大学新闻与新媒体研究中心发布，聚焦生成式人工智能（AIGC）的产业发展、技术趋势、社会影响与治理机制。深入辨析AIGC在多元场景中的落地应用与价值创造。",
+        "coverUrl": "./第三版/picture/2-报告背景与说明-2.png",
+        "pdfUrl": "./第三版/AIGC发展研究3.0发布版C版.pdf"
+    },
+    {
+        "id": "v1",
+        "title": "AIGC发展研究1.0版",
+        "version": "1.0",
+        "date": "2023",
+        "abstract": "作为本系列的第一份报告，初步梳理了元宇宙与AIGC的基本概念、内容生态及初步发展的机遇与挑战。",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC+1.0",
+        "pdfUrl": "./第一版/AIGC发展研究1.0版.pdf"
+    }
+]
