@@ -27,8 +27,8 @@ function App() {
               <span className="text-white font-bold text-xl">T</span>
             </div>
             <div>
-              <h1 className="text-xl font-bold tracking-tight text-slate-900">清华大学新闻与新媒体研究中心</h1>
-              <p className="text-xs text-slate-500 font-medium tracking-wider uppercase">THU New Media Research Center</p>
+              <h1 className="text-xl font-bold tracking-tight text-slate-900">清华大学清新研究团队</h1>
+              <p className="text-xs text-slate-500 font-medium tracking-wider uppercase">THU ZeeLin Research</p>
             </div>
           </div>
           <a href="https://github.com/thu-nmrc/THU-ZeeLin-Reports" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-slate-900 transition-colors hidden sm:block">
@@ -43,13 +43,13 @@ function App() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8 relative z-10">
           <div className="mx-auto max-w-3xl lg:mx-0">
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white mb-6 drop-shadow-md leading-tight">
-              清新研究团队·清华新闻学院前沿研究报告文库
+              清新研究团队·清华前沿研究报告文库
             </h2>
             <p className="text-lg sm:text-xl leading-8 text-slate-200 font-medium mb-4">
-              聚焦前沿科技、媒介演进、数字治理与社会变迁。本站收录沈阳教授团队及清华新闻学院公开发布的各类别深度研究成果，供全球研究者免费沉浸式阅览与下载。
+              聚焦前沿科技、媒介演进、数字治理与社会变迁。本站收录清华大学清新研究团队公开发布的各类别深度研究成果，供全球研究者免费沉浸式阅览与下载。
             </p>
             <p className="text-sm sm:text-base leading-7 text-slate-400 font-normal">
-              Focusing on cutting-edge technology, media evolution, digital governance, and social transformation. This digital library collects diverse in-depth research reports published by Professor Shen Yang's team and the Tsinghua School of Journalism and Communication, freely accessible for global researchers.
+              Focusing on cutting-edge technology, media evolution, digital governance, and social transformation. This digital library collects diverse in-depth research reports published by THU ZeeLin Research, freely accessible for global researchers.
             </p>
           </div>
         </div>
