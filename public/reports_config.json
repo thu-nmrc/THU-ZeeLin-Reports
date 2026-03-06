@@ -1,5 +1,15 @@
 [
     {
+        "id": "openclaw-v1",
+        "title": "OpenClaw Strategic Analysis",
+        "version": "1.0",
+        "date": "2026",
+        "category": "OpenClaw",
+        "abstract": "本报告围绕 OpenClaw 的战略定位、市场机会、产品路径与落地策略进行系统分析，面向研究与应用场景提供可执行的判断框架。",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=OpenClaw+1.0",
+        "pdfUrl": "./OpenClaw/OpenClaw_Strategic_Analysis_EN.pptx"
+    },
+    {
         "id": "v3",
         "title": "AIGC发展研究3.0发布版",
         "version": "3.0",

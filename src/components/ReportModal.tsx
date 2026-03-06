@@ -64,10 +64,10 @@ export function ReportModal({ report, onClose }: ReportModalProps) {
                             className="inline-flex w-full items-center justify-center px-8 py-4 bg-tsinghua text-white rounded-xl font-bold text-lg hover:bg-purple-900 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200 focus:outline-none focus:ring-4 focus:ring-tsinghua/30"
                         >
                             <svg className="w-6 h-6 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" /></svg>
-                            下载 PDF 报告
+                            下载报告文件
                         </a>
                         <p className="text-center text-slate-400 text-xs mt-4">
-                            直接点击下载完整的 {report.version} 版本报告研读
+                            直接点击下载完整的 {report.version} 版本报告文件
                         </p>
                     </div>
                 </div>
