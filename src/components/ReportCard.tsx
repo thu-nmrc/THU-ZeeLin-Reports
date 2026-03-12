@@ -1,4 +1,5 @@
 
+import { ReportCover } from './ReportCover';
 
 interface ReportCardProps {
     report: {
@@ -21,13 +22,9 @@ export function ReportCard({ report, onClick }: ReportCardProps) {
             className="group flex flex-col bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden cursor-pointer hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1"
         >
             <div className="relative aspect-[4/3] w-full overflow-hidden bg-slate-100">
-                <img
-                    src={report.coverUrl}
-                    alt={report.title}
+                <ReportCover
+                    report={report}
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                    onError={(e) => {
-                        e.currentTarget.src = `https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC+${report.version}`;
-                    }}
                 />
                 <div className="absolute top-4 left-4 bg-tsinghua/90 backdrop-blur-sm text-white text-xs font-semibold px-3 py-1 rounded-full shadow-sm">
                     {report.category || '未分类'} • v{report.version}

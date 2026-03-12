@@ -1,4 +1,5 @@
 
+import { ReportCover } from './ReportCover';
 
 interface ReportModalProps {
     report: any;
@@ -29,13 +30,9 @@ export function ReportModal({ report, onClose }: ReportModalProps) {
 
                 {/* Image Side */}
                 <div className="w-full md:w-2/5 bg-slate-100 relative">
-                    <img
-                        src={report.coverUrl}
-                        alt={report.title}
+                    <ReportCover
+                        report={report}
                         className="w-full h-full object-cover min-h-[300px]"
-                        onError={(e) => {
-                            e.currentTarget.src = `https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC+${report.version}`;
-                        }}
                     />
                 </div>
 
