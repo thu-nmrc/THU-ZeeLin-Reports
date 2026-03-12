@@ -1,5 +1,15 @@
 [
     {
+        "id": "openclaw-and-the-intelligent-economy-openclaw-2026-03",
+        "title": "OpenClaw and the Intelligent Economy",
+        "version": "1.0",
+        "date": "2026-03",
+        "category": "OpenClaw",
+        "abstract": "本报告围绕《OpenClaw and the Intelligent Economy》展开，聚焦OpenClaw相关议题，系统梳理核心进展、关键问题与落地路径，供研究与决策参考。",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=OpenClaw+1.0",
+        "pdfUrl": "./OpenClaw/OpenClaw_and_the_Intelligent_Economy_compressed.pdf"
+    },
+    {
         "id": "openclaw-v1",
         "title": "OpenClaw Strategic Analysis",
         "version": "1.0",
