@@ -1,5 +1,15 @@
 [
     {
+        "id": "openclaw-3-11-update-report-english-openclaw-2026-03",
+        "title": "OpenClaw 3.11 Update Report (English)",
+        "version": "3.11",
+        "date": "2026-03",
+        "category": "OpenClaw",
+        "abstract": "English update briefing on OpenClaw 3.11, summarizing key improvements, workflow updates, and practical adoption guidance.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=OpenClaw+3.11",
+        "pdfUrl": "./OpenClaw/OpenClaw 3.11 Update Report (English).pdf"
+    },
+    {
         "id": "openclaw-and-the-intelligent-economy-openclaw-2026-03",
         "title": "OpenClaw and the Intelligent Economy",
         "version": "1.0",
