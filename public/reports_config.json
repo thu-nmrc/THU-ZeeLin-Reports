@@ -1,5 +1,15 @@
 [
     {
+        "id": "global-general-purpose-agent-competition-report-2026-ai-agent-20",
+        "title": "Global General-Purpose Agent Competition Report 2026",
+        "version": "1.0",
+        "date": "2026-03",
+        "category": "AI Agent",
+        "abstract": "本报告围绕《Global General-Purpose Agent Competition Report 2026》展开，聚焦AI Agent相关议题，系统梳理核心进展、关键问题与落地路径，供研究与决策参考。",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AI+Agent+1.0",
+        "pdfUrl": "./AI Agent/Global General-Purpose Agent Competition Report 2026_compressed.pdf"
+    },
+    {
         "id": "openclaw-3-11-update-report-english-openclaw-2026-03",
         "title": "OpenClaw 3.11 Update Report (English)",
         "version": "3.11",
