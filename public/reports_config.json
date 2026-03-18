@@ -1,5 +1,15 @@
 [
     {
+        "id": "ai-short-drama-development-report-english-aigc-2026",
+        "title": "AI Short Drama Development Report (English)",
+        "version": "1.0",
+        "date": "2026",
+        "category": "AIGC发展",
+        "abstract": "This report examines the current landscape of AI short drama, maps the end-to-end industry chain, and analyzes production, distribution, and monetization pathways, highlighting key challenges and practical opportunities for deployment.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC%E5%8F%91%E5%B1%95+1.0",
+        "pdfUrl": "./AIGC发展/AI Short Drama Development Report (English).pdf"
+    },
+    {
         "id": "global-general-purpose-agent-competition-report-2026-ai-agent-20",
         "title": "Global General-Purpose Agent Competition Report 2026",
         "version": "1.0",
