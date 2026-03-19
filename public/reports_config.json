@@ -1,5 +1,15 @@
 [
     {
+        "id": "openclaw-shrimp-farming-panorama-report-english-edition-openclaw",
+        "title": "OpenClaw Shrimp Farming Panorama Report (English Edition)",
+        "version": "1.0",
+        "date": "2026",
+        "category": "OpenClaw",
+        "abstract": "This report provides a panoramic analysis of OpenClaw-enabled shrimp farming, covering industry context, technology stack, operational workflows, key challenges, and practical implementation pathways for scalable and data-driven aquaculture.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=OpenClaw+1.0",
+        "pdfUrl": "./OpenClaw/OpenClaw Shrimp Farming Panorama Report (English).pdf"
+    },
+    {
         "id": "ai-short-drama-development-report-english-aigc-2026",
         "title": "AI Short Drama Development Report (English)",
         "version": "1.0",
