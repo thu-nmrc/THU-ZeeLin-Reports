@@ -1,5 +1,15 @@
 [
     {
+        "id": "openclaw-shrimp-farming-panorama-report-english-edition-openclaw",
+        "title": "OpenClaw Shrimp Farming Panorama Report (English Edition)",
+        "version": "1.0",
+        "date": "2026",
+        "category": "OpenClaw",
+        "abstract": "This report provides a panoramic analysis of OpenClaw-enabled shrimp farming, covering industry context, technology stack, operational workflows, key challenges, and practical implementation pathways for scalable and data-driven aquaculture.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=OpenClaw+1.0",
+        "pdfUrl": "./OpenClaw/OpenClaw Shrimp Farming Panorama Report (English).pdf"
+    },
+    {
         "id": "global-general-purpose-agent-competition-report-2026-ai-agent-20",
         "title": "Global General-Purpose Agent Competition Report 2026",
         "version": "1.0",
