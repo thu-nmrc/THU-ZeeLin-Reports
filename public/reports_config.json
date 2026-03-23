@@ -1,5 +1,15 @@
 [
     {
+        "id": "openoctopus-a-manufacturing-and-sensor-industry-collaboration-pl",
+        "title": "OpenOctopus: A Manufacturing and Sensor Industry Collaboration Platform",
+        "version": "1.0",
+        "date": "2026-03",
+        "category": "AI Agent",
+        "abstract": "This report introduces OpenOctopus as a collaboration platform for manufacturing and the sensor value chain. It focuses on an end-to-end workflow from requirement clarification to engineering analysis, project delivery, and continuous data accumulation. It also outlines core moats, phased commercialization, and the current market window for industrial AI deployment.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AI+Agent+1.0",
+        "pdfUrl": "./AI Agent/OpenOctopus Manufacturing and Sensor Industry Collaboration Platform (English).pdf"
+    },
+    {
         "id": "openclaw-as-a-digital-employee-operating-layer-architecture-gaps",
         "title": "OpenClaw as a Digital Employee Operating Layer: Architecture, Gaps, and Practical Pathways",
         "version": "1.0",
