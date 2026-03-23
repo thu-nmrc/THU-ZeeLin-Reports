@@ -1,5 +1,15 @@
 [
     {
+        "id": "openclaw-as-a-digital-employee-operating-layer-architecture-gaps",
+        "title": "OpenClaw as a Digital Employee Operating Layer: Architecture, Gaps, and Practical Pathways",
+        "version": "1.0",
+        "date": "2026-03",
+        "category": "OpenClaw",
+        "abstract": "This report repositions OpenClaw from a personal assistant gateway to a lightweight operating layer for digital employees. It analyzes core architecture and execution capabilities (multi-channel ingress, tool invocation, event-driven workflows, cron scheduling, and skill distribution), evaluates key gaps against enterprise-grade control-plane requirements (identity, governance, observability, and orchestration), and proposes a self-hosted, execution-first pathway grounded in practical scenarios such as social monitoring, patent workflows, and in-depth research delivery.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=OpenClaw+1.0",
+        "pdfUrl": "./OpenClaw/OpenClaw and Digital Employee Research Report (English).pdf"
+    },
+    {
         "id": "token-economics-panorama-report-english-edition-ai-agent-2026-03",
         "title": "Token Economics Panorama Report (English Edition)",
         "version": "1.0",
