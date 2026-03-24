@@ -1,5 +1,15 @@
 [
     {
+        "id": "openclaw-domestication-or-evolution-english-openclaw-2026-03",
+        "title": "OpenClaw Domestication or Evolution (English)",
+        "version": "1.0",
+        "date": "2026-03",
+        "category": "OpenClaw",
+        "abstract": "This report examines whether OpenClaw should be steered toward controlled domestication or autonomous evolution, framing the issue as a layered governance and capability question. It compares domestication, adaptation, and strategic self-optimization paths, and discusses practical mechanisms including permission governance, safety controls, execution-loop design, and feedback-driven optimization. The report provides an operational lens for designing, deploying, and governing AI-agent systems in real-world organizational settings.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=OpenClaw+1.0",
+        "pdfUrl": "./OpenClaw/OpenClaw Domestication or Evolution (English).pdf"
+    },
+    {
         "id": "openoctopus-a-manufacturing-and-sensor-industry-collaboration-pl",
         "title": "OpenOctopus: A Manufacturing and Sensor Industry Collaboration Platform",
         "version": "1.0",
