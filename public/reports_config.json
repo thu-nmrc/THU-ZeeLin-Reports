@@ -1,5 +1,15 @@
 [
     {
+        "id": "openclaw-management-openclaw-2026-03",
+        "title": "OpenClaw Management",
+        "version": "1.0",
+        "date": "2026-03",
+        "category": "OpenClaw",
+        "abstract": "This report examines OpenClaw management as an organizational operating problem in the AI-agent era, rather than a pure model-performance problem. It argues that enterprises should treat agents as bounded execution entities and build management around authority boundaries, memory governance, escalation loops, auditability, and cost control. Using a ten-module framework, the report covers industrial context, organizational mechanisms, operational accounting, risk governance, and roadmap design, and proposes a staged deployment path from single-point pilots to role-based rollout and fleet-level governance dashboards.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=OpenClaw+1.0",
+        "pdfUrl": "./OpenClaw/OpenClaw Management (English).pdf"
+    },
+    {
         "id": "ai-agent-management-ai-agent-2026-03",
         "title": "AI Agent Management",
         "version": "1.0",
