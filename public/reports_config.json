@@ -1,5 +1,15 @@
 [
     {
+        "id": "why-anthropic-became-the-fastest-iterating-ai-team-ai-agent-2026-03",
+        "title": "Why Anthropic Became the Fastest-Iterating AI Team",
+        "version": "1.0",
+        "date": "2026-03",
+        "category": "AI Agent",
+        "abstract": "This report argues that Anthropic’s speed comes from an \"AI builds AI\" bootstrap flywheel rather than isolated model wins. It maps a closed-loop system linking model advances, Claude Code-enabled engineering throughput, rapid product release, and high-frequency internal dogfooding feedback. The analysis further identifies five amplifiers—shared stack, prototype-as-spec, parallelized governance, coding focus, and organizational short-loop execution—and explains why compute alone cannot account for Anthropic’s iteration advantage. The report concludes that Anthropic’s moat is increasingly toolized (Claude Code + Agent SDK + workflow/runtime integration), making its lead a system-level speed advantage likely to persist if the flywheel keeps compounding.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AI+Agent+1.0",
+        "pdfUrl": "./AI Agent/Why Anthropic Became the Fastest-Iterating AI Team (English).pdf"
+    },
+    {
         "id": "harness-engineering-report-ai-agent-2026",
         "title": "Harness Engineering Report",
         "version": "1.0",
