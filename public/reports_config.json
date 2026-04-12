@@ -1,5 +1,15 @@
 [
     {
+        "id": "ai-healthy-aging-deep-research-report-aigc-2026-04",
+        "title": "AI Healthy Aging Deep Research Report",
+        "version": "1.0",
+        "date": "2026-04",
+        "category": "AIGC发展",
+        "abstract": "This report examines AI-enabled healthy aging, mapping key technologies, application scenarios, care models, industry trends, and practical implementation pathways for research, service design, and decision-making in aging-related contexts.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC%E5%8F%91%E5%B1%95+1.0",
+        "pdfUrl": "./AIGC发展/AI Healthy Aging Deep Research Report (English).pdf"
+    },
+    {
         "id": "openclaw-swarm-research-report-openclaw-2026-04",
         "title": "OpenClaw Swarm Research Report",
         "version": "1.0",
