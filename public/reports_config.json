@@ -1,5 +1,15 @@
 [
     {
+        "id": "seedance-2-0-research-report",
+        "title": "Seedance 2.0 Research Report",
+        "version": "1.0",
+        "date": "2026",
+        "category": "AIGC发展",
+        "abstract": "This report examines Seedance 2.0 as an industrial-grade multimodal audio-video generation system rather than a standalone text-to-video tool. It analyzes the model's unified reference and production workflow capabilities, the market and policy context behind faster content creation demand, and the strategic shift from competing on model effects alone to building integrated infrastructure for assets, templates, compliance, and scalable content production.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC%E5%8F%91%E5%B1%95+1.0",
+        "pdfUrl": "./AIGC发展/Seedance 2.0 Research Report (English, Pro, Lite).pdf"
+    },
+    {
         "id": "token-consumption-studies-report",
         "title": "Token Consumption Studies Report",
         "version": "1.0",
