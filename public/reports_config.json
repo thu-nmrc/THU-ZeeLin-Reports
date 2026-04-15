@@ -1,5 +1,15 @@
 [
     {
+        "id": "token-consumption-studies-report",
+        "title": "Token Consumption Studies Report",
+        "version": "1.0",
+        "date": "2026",
+        "category": "AIGC发展",
+        "abstract": "This report examines token consumption as an operational resource for enterprise AI, framing tokens not only as linguistic units but also as cost, throughput, budget, and governance units. It analyzes the supply-side expansion of compute capacity, the demand-side rise of large-scale AI usage, and the management systems organizations need to measure, budget, route, and govern token consumption effectively.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC%E5%8F%91%E5%B1%95+1.0",
+        "pdfUrl": "./AIGC发展/Token Consumption Studies Report (English, Pro).pdf"
+    },
+    {
         "id": "notebooklm-research-report",
         "title": "NotebookLM Research Report",
         "version": "1.0",
