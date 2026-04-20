@@ -1,5 +1,15 @@
 [
     {
+        "id": "suno-research-report",
+        "title": "Suno Research Report",
+        "version": "1.0",
+        "date": "2026",
+        "category": "AIGC发展",
+        "abstract": "This report examines Suno's evolution from an AI songwriting tool into a music operating system, covering its product workflow, competitive position, business model, copyright and regulatory risks, original strategic concepts, and practical implications for creators, platforms, rights holders, and investors.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC%E5%8F%91%E5%B1%95+1.0",
+        "pdfUrl": "./AIGC发展/Suno Research Report (English) web.pdf"
+    },
+    {
         "id": "seedance-2-0-research-report",
         "title": "Seedance 2.0 Research Report",
         "version": "1.0",
