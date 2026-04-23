@@ -1,5 +1,15 @@
 [
     {
+        "id": "ai-writing-deep-research-report",
+        "title": "AI Writing Deep Research Report",
+        "version": "1.0",
+        "date": "2026",
+        "category": "AIGC发展",
+        "abstract": "This report examines AI writing as it shifts from sentence-level generation toward platform-based creative production, covering regulation, fiction, scripts, responsibility, official data, industry variables, and practical implications for creators, platforms, and investors.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC%E5%8F%91%E5%B1%95+1.0",
+        "pdfUrl": "./AIGC发展/AI Writing Deep Research Report (English).pdf"
+    },
+    {
         "id": "suno-research-report",
         "title": "Suno Research Report",
         "version": "1.0",
