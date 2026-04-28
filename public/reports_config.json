@@ -1,5 +1,15 @@
 [
     {
+        "id": "ai-hallucination-deep-research-report-aigc-2026",
+        "title": "AI Hallucination Deep Research Report",
+        "version": "1.0",
+        "date": "2026",
+        "category": "AIGC发展",
+        "abstract": "This report examines hallucination mechanisms, six major risk categories, governance benchmarks, and deployment-stage action roadmaps, helping organizations design source-verification, scenario-based assessment, and accountability systems for high-risk AI use.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC%E5%8F%91%E5%B1%95+1.0",
+        "pdfUrl": "./AIGC发展/AI Hallucination Deep Research Report (English).pdf"
+    },
+    {
         "id": "ai-writing-deep-research-report",
         "title": "AI Writing Deep Research Report",
         "version": "1.0",
