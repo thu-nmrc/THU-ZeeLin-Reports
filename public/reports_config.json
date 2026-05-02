@@ -1,5 +1,15 @@
 [
     {
+        "id": "ai-and-industrial-development-deep-research-report",
+        "title": "AI and Industrial Development Deep Research Report",
+        "version": "1.0",
+        "date": "2026",
+        "category": "AIGC发展",
+        "abstract": "This report examines how AI is moving from model capability breakthroughs into large-scale industrial deployment, covering the path toward AGI, multimodal and agent capabilities, infrastructure and workflow orchestration, sector-specific applications, and the practical implications for commercialization, governance, and long-term productivity transformation.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC%E5%8F%91%E5%B1%95+1.0",
+        "pdfUrl": "./AIGC发展/AI and Industrial Development Deep Research Report (English).pdf"
+    },
+    {
         "id": "ai-writing-deep-research-report",
         "title": "AI Writing Deep Research Report",
         "version": "1.0",
