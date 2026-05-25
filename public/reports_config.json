@@ -1,5 +1,15 @@
 [
     {
+        "id": "openai-fde-research-report",
+        "title": "OpenAI FDE Research Report",
+        "version": "1.0",
+        "date": "2026-05",
+        "category": "AI Agent",
+        "abstract": "This report analyzes OpenAI FDE as a signal of OpenAI’s shift toward a Deployment Company, covering field deployment roles, enterprise workflow integration, product feedback loops, and the organizational capabilities needed to turn model access into production outcomes.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AI+Agent+1.0",
+        "pdfUrl": "./AI Agent/OpenAI FDE Research Report (English).pdf"
+    },
+    {
         "id": "ai-and-industrial-development-deep-research-report",
         "title": "AI and Industrial Development Deep Research Report",
         "version": "1.0",
