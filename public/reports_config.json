@@ -1,5 +1,15 @@
 [
     {
+        "id": "aigc-industry-core-insights",
+        "title": "Core Insights into AIGC and Industrial Development",
+        "version": "1.0",
+        "date": "2026-05",
+        "category": "AIGC发展",
+        "abstract": "This report frames AIGC as an industrial cognitive operating system, outlining how cognitive labor, task chains, data, process permissions, business models, regulation, capital, scenarios, infrastructure, and organizational restructuring shape enterprise adoption and industrial value.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC%E5%8F%91%E5%B1%95+1.0",
+        "pdfUrl": "./AIGC发展/AIGC and Industrial Development Core Insights Research Report (English).pdf"
+    },
+    {
         "id": "openai-fde-research-report",
         "title": "OpenAI FDE Research Report",
         "version": "1.0",
