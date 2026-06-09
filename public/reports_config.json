@@ -1,5 +1,15 @@
 [
     {
+        "id": "ai-based-self-evolving-organization",
+        "title": "AI-Based Self-Evolving Organization",
+        "version": "1.0",
+        "date": "2026-06",
+        "category": "AIGC发展",
+        "abstract": "This report examines AI-based self-evolving organizations as an emerging enterprise form, covering AI-native business models, process assets, valuation metrics, governance mechanisms, internal machine markets, decision traceability, and capital-market implications.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC%E5%8F%91%E5%B1%95+1.0",
+        "pdfUrl": "./AIGC发展/AI-Based Self-Evolving Organization.pdf"
+    },
+    {
         "id": "aigc-industry-core-insights",
         "title": "Core Insights into AIGC and Industrial Development",
         "version": "1.0",
