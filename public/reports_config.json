@@ -1,5 +1,35 @@
 [
     {
+        "id": "agent-to-agent-a2a-research-report",
+        "title": "Agent-to-Agent (A2A) Research Report",
+        "version": "1.0",
+        "date": "2026-06",
+        "category": "AI Agent",
+        "abstract": "This report examines Agent-to-Agent (A2A) as programmable organizational infrastructure, covering agent interoperability, digital twin delegation, trust and connection mechanisms, capability boundaries, responsibility chains, governance models, and practical implications for enterprise multi-agent collaboration.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AI+Agent+1.0",
+        "pdfUrl": "./AI Agent/Agent-to-Agent (A2A) Research Report.pdf"
+    },
+    {
+        "id": "loop-engineering-research-report",
+        "title": "Loop Engineering Research Report",
+        "version": "1.0",
+        "date": "2026-06",
+        "category": "AI Agent",
+        "abstract": "This report frames loop engineering as the discipline of building verifiable, stoppable, auditable agent workflows, covering loop stacks, worktrees, memory and ledger assets, remediation patterns, governance principles, operating models, and practical assessment tools for enterprise deployment.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AI+Agent+1.0",
+        "pdfUrl": "./AI Agent/Loop Engineering Research Report.pdf"
+    },
+    {
+        "id": "agent-safety-research-report",
+        "title": "Agent Safety Research Report",
+        "version": "1.0",
+        "date": "2026-06",
+        "category": "AI Agent",
+        "abstract": "This report analyzes agent safety from large model security to controllable action systems, covering identity, permissions, tools, logs, threat models, risk maps, security control architecture, evaluation operations, governance processes, and deployment roadmaps.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AI+Agent+1.0",
+        "pdfUrl": "./AI Agent/Agent Safety Research Report.pdf"
+    },
+    {
         "id": "ai-based-self-evolving-organization",
         "title": "AI-Based Self-Evolving Organization",
         "version": "1.0",
